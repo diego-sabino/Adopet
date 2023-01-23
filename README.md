@@ -30,4 +30,4 @@ Adopet é uma plataforma onde os usuários podem adotar ou publicar animais de e
 5. Crie um pull request
 
 ## Equipe
-Este projeto foi desenvolvido em dupla por Diego Sabino e Miyuki Ishii.
+Este projeto foi desenvolvido em dupla por [Diego Sabino](https://github.com/diego-sabino) e [Miyuki Ishii](https://github.com/miyukishii).
