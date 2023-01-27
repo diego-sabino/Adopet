@@ -29,5 +29,5 @@ Adopet é uma plataforma onde os usuários podem adotar ou publicar animais de e
 4. Faça um push para a sua branch (git push origin minha-feature)
 5. Crie um pull request
 
-## Equipe
+## Equipe de desenvolvimento
 Este projeto foi desenvolvido em dupla por [Diego Sabino](https://github.com/diego-sabino) e [Miyuki Ishii](https://github.com/miyukishii).
